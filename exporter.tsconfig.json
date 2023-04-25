@@ -1,0 +1,7 @@
+{
+  "module": "CommonJS",
+  "compilerOptions": {
+      "target": "ES2017",
+      "allowSyntheticDefaultImports": true
+  }
+}
